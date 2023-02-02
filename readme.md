@@ -10,25 +10,18 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center"> Hello there 👋  I'm Nicholas Njeru</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">I,m a Junior Software Developer just finished moringa Bootcamp, </h3>
 
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/jrosseel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
+  <a href="https://www.linkedin.com/in/nicholas-njeru-9747a222a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
   <span>&nbsp;</span>
-  <!-- Twitter -->
-  <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
-  <span>&nbsp;</span>
-  <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
 
   <!-- Other badges -->
   <!-- 
@@ -47,30 +40,21 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **following languages Javascript Ruby.**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 
-📄 Know about my experiences [through my CV](about/resume.md)
+📄 Know about my experiences [through my CV](https://docs.google.com/document/d/1VYydpqB9IdJsZOfmaPGkfW2HBjpuuKwqosL9Se7yWak/edit)
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
-
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
 
 ### My work
 
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
+🔭 I’m currently working on [Kindergarten](https://github.com/nicco99/kindergarten-management-system-backend)
 <!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
-
-<!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
-
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+🔭 I’m currently working on [travela](https://github.com/nicco99/travela)
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **nicholasnjeru917@gmail.com**
 
 <br />
 
@@ -82,72 +66,9 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
-
-<p align="right"><b>2023</b></p>
-
-<p>
-  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
-</p>
-<p>
-  <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
-</p>
-<br/>
-
-<!-- Link in this table your actual contributions -->
-### My contributions
-
-| Date     	| Issue 	| Status 	| Link 	|
-|----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
+<h2 align="left">No Experience </h2>
 
 
-### The technologies I used
-
-<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> </p>
-
-<!-- END: EXPERIENCE I -->
-
-#
-<!-- EXPERIENCE II -->
-<h2 align="left">Project Elewa</h2>
-
-<p align="right"><b>2022 - 2023</b></p>
-
-<p>
-  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
-</p>
-<p>
-  <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
-</p>
-<br/>
-
-<!-- Link in this table your actual contributions -->
-### My contributions
-
-| Date     	| Issue 	| Status 	| Link 	|
-|----------	|-------	|--------	|------	|
-| 26/09/22 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#79](https://github.com/italanta/kujali/issues/79) |
-| 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
-| 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) |
-
-
-### The technologies I used
-
-<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<!-- END: EXPERIENCE I -->
-
-<!-- Section: GITHUB OVERVIEW -->
-#
-
-<h2 align="left">My GitHub Overview</h2>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
 
 <!-- END -->
 
